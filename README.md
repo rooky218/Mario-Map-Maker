@@ -1,6 +1,6 @@
 # Mario-Map-Maker
 
-<a href="https://jsfiddle.net/rooky218/ep7sbc6a/7/">Link to project</a>
+<a href="https://jsfiddle.net/rooky218/ep7sbc6a/7/">Link to project</a> -- If you click through this link, don't forget to scroll through the map. The canvas window is bigger than JSFiddle window, so if you don't see anything except the blue sky, scroll around
 
 Simple function based JS code (JS Vanilla) that builds a generic Super Mario level. Part of a class project to build a game, this was my contribution.
 
